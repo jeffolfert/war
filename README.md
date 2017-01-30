@@ -27,7 +27,7 @@ war.getRoundCount()
 
 A test in test/warTest.java is also include to drive the game.
 
-#Build / Test / Demo  
+#Build / Test
 The project uses maven to build using the default maven command.
 From the top leve directory run  
 mvn compile  (to compile)
