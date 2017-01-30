@@ -1,4 +1,7 @@
-War card game as described here https://en.wikipedia.org/wiki/War_(card_game)
+War card game as described here https://en.wikipedia.org/wiki/War_(card_game)  
+In this version of the game, a war round includes 2 cards from each player with 1 of the cards face up and one face down.
+For games with more than 2 players, a war round occurs only when 2 or more players match the highest rank card.
+
 Code is implemented in java (8) 1.8
 
 To play the game instantiate a War class as shown in the example below.
