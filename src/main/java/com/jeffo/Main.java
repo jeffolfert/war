@@ -1,4 +1,4 @@
-package main;
+package com.jeffo;
 
 public class Main {
 

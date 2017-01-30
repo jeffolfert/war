@@ -1,4 +1,4 @@
-package main;
+package com.jeffo;
 
 import java.util.ArrayList;
 import java.util.Collection;

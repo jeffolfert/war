@@ -1,4 +1,4 @@
-package main;
+package com.jeffo;
 
 public interface Deck {
     void create(int numberOfSuits, int numberOfRanks);
